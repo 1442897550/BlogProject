@@ -1,0 +1,10 @@
+spring:
+  thymeleaf:
+    mode: HTML5
+  profiles:
+    active: dev
+
+
+comment.avatar: https://unsplash.it/100/100?image=1005
+
+

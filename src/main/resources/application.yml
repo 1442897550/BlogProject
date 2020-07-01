@@ -1,0 +1,15 @@
+spring:
+  thymeleaf:
+    mode: HTML5
+  profiles:
+    active: dev
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+
+comment.avatar: https://unsplash.it/100/100?image=1005
+
+
+
+
